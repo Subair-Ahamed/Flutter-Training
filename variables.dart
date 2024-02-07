@@ -1,4 +1,4 @@
-//dart Variables:
+//Dart Variables:
 //syntax : type variable_name;
 //Rules:
 // Variable name or identifiers can’t be the keyword.
